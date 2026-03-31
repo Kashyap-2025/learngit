@@ -1,0 +1,18 @@
+
+---
+
+# 2. `app.py`
+```python
+from utils import add, subtract
+
+def main():
+    print("Welcome to Calculator App")
+
+    a = 10
+    b = 5
+
+    print("Addition:", add(a, b))
+    print("Subtraction:", subtract(a, b))
+
+if __name__ == "__main__":
+    main()
