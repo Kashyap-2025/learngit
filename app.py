@@ -14,6 +14,7 @@ def main():
 
     print("Addition:", add(a, b))
     print("Subtraction:", subtract(a, b))
+    print("Multiplication:", multiply(a, b))
 
 	
 if __name__ == "__main__":
