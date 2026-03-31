@@ -1,8 +1,3 @@
-
----
-
-# 2. `app.py`
-```python
 from utils import add, subtract
 from utils import add, subtract, multiply
 
